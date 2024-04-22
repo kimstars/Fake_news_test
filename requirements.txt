@@ -1,3 +1,5 @@
 dill
 pyvi
-sklearn
+scikit-learn
+streamlit
+matplotlib
